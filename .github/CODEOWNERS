@@ -1,3 +1,4 @@
 * @wilson-jung
 *.js @wilson-jung
-*.yml @wilson-jung
+*.yml @khaki4
+/public/ @wilson-jung
