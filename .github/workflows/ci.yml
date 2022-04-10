@@ -46,7 +46,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v3
         with:
           semantic_version: 19
-          branches: |    
+          branches: |
             [
               '+([0-9])?(.{+([0-9]),x}).x',
               'release'
